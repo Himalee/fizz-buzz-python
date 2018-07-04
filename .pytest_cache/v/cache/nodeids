@@ -1,0 +1,11 @@
+[
+  "test_fizz_buzz.py::TestFizzBuzz::()::test_convert_number_one", 
+  "test_fizz_buzz.py::TestFizzBuzz::()::test_convert_number_two", 
+  "test_fizz_buzz.py::TestFizzBuzz::()::test_convert_number_three", 
+  "test_fizz_buzz.py::TestFizzBuzz::()::test_convert_number_four", 
+  "test_fizz_buzz.py::TestFizzBuzz::()::test_convert_number_five", 
+  "test_fizz_buzz.py::TestFizzBuzz::()::test_convert_number_six", 
+  "test_fizz_buzz.py::TestFizzBuzz::()::test_convert_number_ten", 
+  "test_fizz_buzz.py::TestFizzBuzz::()::test_convert_number_fifteen", 
+  "test_fizz_buzz.py::TestFizzBuzz::()::test_convert_number_thirty"
+]
