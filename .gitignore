@@ -1,4 +1,5 @@
-__pycache__/
-.pytest_cache/
+__pycache__
+.pytest_cache
 .fizz_buzz.py.swp
 .test_fizz_buzz.py.swp
+fizz_buzz.pyc
